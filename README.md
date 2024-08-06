@@ -1,1 +1,1 @@
-DRACULA = Deep Ratio based on Additon and Concatenation of Unet Linknet Architecture
+DRACULA = Deep Ratio based Additon and Concatenation of Unet Linknet Architecture
